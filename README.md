@@ -2,6 +2,9 @@
   <h2>[Eats Where🍔]</h2>
 </div>
 
+![스크린샷 2023-10-09 215436](https://github.com/tubus1130/Project_EatsWhere/assets/50819376/28f4e6fd-db8a-4a7b-89b1-f479c2e072a2)
+
+
 # 📌 개요
 - 프로젝트 이름 : Eats Where
 - 개발기간 : 2019.09 ~ 2019.12
